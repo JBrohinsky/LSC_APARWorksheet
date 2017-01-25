@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "LSC_APARWorksheet", "LSC_APARWorksheet\LSC_APARWorksheet.sqlproj", "{3DE5045A-39DB-4E55-B9F9-A109D6EF45F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DE5045A-39DB-4E55-B9F9-A109D6EF45F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DE5045A-39DB-4E55-B9F9-A109D6EF45F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DE5045A-39DB-4E55-B9F9-A109D6EF45F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DE5045A-39DB-4E55-B9F9-A109D6EF45F9}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
