@@ -4,8 +4,8 @@ Worksheet for installation of Infor SyteLine/CSI APARs. (Patches)
 This software is intended to be installed as a module for the Infor SyteLine/CloudSuite ERP software.
 
 # Prototype
-If you want to see what the design of this software will be in the future, you can go here to try an interactive prototype. There is no guarantee that the prototype and the finished software will match, but it should give you an opportunity to see where the software is headed.
-[Interactive Prototype] (https://www.justinmind.com/usernote/tests/20974331/21457199/21457201/index.html)
+If you want to see what the design of this software will be in the future, you can go [here](https://www.justinmind.com/usernote/tests/20974331/21457199/21457201/index.html)
+ to try an interactive prototype. There is no guarantee that the prototype and the finished software will match, but it should give you an opportunity to see where the software is headed.
 
 # Installation Instructions
 When there is actually software here, the Installation Instructions will go here.
